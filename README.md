@@ -4,140 +4,140 @@
   <thead>
   <tr>
     <th></th>
-    <th style="text-align: right;">Filecount</th>
-    <th>Extension</th>
-    <th style="text-align: right;">Size</th>
+    <th align="right"><small>Filecount</small></th>
+    <th><small>Extension</small></th>
+    <th align="right"><small>Size</small></th>
   </tr>
   </thead>
   
   <tbody>
   <tr>
-    <td rowspan="3" style="vertical-align: top;">Document/Text&nbsp;&nbsp;&nbsp;</td> 
-    <td style="text-align: right;">1,378,652</td>
-    <td>PDF</td>
-    <td style="text-align: right;">208.80 GB</td>
+    <td rowspan="3" valign="top"><small>Document/Text&nbsp;&nbsp;&nbsp;</small></td> 
+    <td align="right"><small>1,378,652</small></td>
+    <td><small>PDF</small></td>
+    <td align="right"><small>208.80 GB</small></td>
   </tr>
   <tr>
-    <td style="text-align: right;">12</td>
-    <td>XLS/XLSX</td>
-    <td style="text-align: right;">667.74 KB</td>
+    <td align="right"><small>12</small></td>
+    <td><small>XLS/XLSX</small></td>
+    <td align="right"><small>667.74 KB</small></td>
   </tr>
   <tr>
-    <td style="text-align: right;">4</td>
-    <td>CSV</td>
-    <td style="text-align: right;">2.61 MB</td>
-  </tr>
-
-  <tr>
-    <td rowspan="9" style="vertical-align: top;">Video</td> 
-    <td style="text-align: right;">1,731</td>
-    <td>AVI</td>
-    <td style="text-align: right;">739.67 MB</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">1,381</td>
-    <td>MP4</td>
-    <td style="text-align: right;">101.52 GB</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">214</td>
-    <td>MOV</td>
-    <td style="text-align: right;">3.43 GB</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">79</td>
-    <td>M4V</td>
-    <td style="text-align: right;">971.68 MB</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">11</td>
-    <td>VOB</td>
-    <td style="text-align: right;">7.64 GB</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">8</td>
-    <td>WMV</td>
-    <td style="text-align: right;">1.34 GB</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">2</td>
-    <td>3GP</td>
-    <td style="text-align: right;">1.89 MB</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">1</td>
-    <td>TS</td>
-    <td style="text-align: right;">275.09 MB</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">1</td>
-    <td>pluginpayloadattachment</td>
-    <td style="text-align: right;">4.86 MB</td>
+    <td align="right"><small>4</small></td>
+    <td><small>CSV</small></td>
+    <td align="right"><small>2.61 MB</small></td>
   </tr>
 
   <tr>
-    <td rowspan="5" style="vertical-align: top;">Audio</td> 
-    <td style="text-align: right;">129</td>
-    <td>M4A</td>
-    <td style="text-align: right;">378.41 MB</td>
+    <td rowspan="9" valign="top"><small>Video</small></td> 
+    <td align="right"><small>1,731</small></td>
+    <td><small>AVI</small></td>
+    <td align="right"><small>739.67 MB</small></td>
   </tr>
   <tr>
-    <td style="text-align: right;">17</td>
-    <td>WAV</td>
-    <td style="text-align: right;">14.00 MB</td>
+    <td align="right"><small>1,381</small></td>
+    <td><small>MP4</small></td>
+    <td align="right"><small>101.52 GB</small></td>
   </tr>
   <tr>
-    <td style="text-align: right;">16</td>
-    <td>OPUS</td>
-    <td style="text-align: right;">790.94 KB</td>
+    <td align="right"><small>214</small></td>
+    <td><small>MOV</small></td>
+    <td align="right"><small>3.43 GB</small></td>
   </tr>
   <tr>
-    <td style="text-align: right;">9</td>
-    <td>MP3</td>
-    <td style="text-align: right;">12.84 MB</td>
+    <td align="right"><small>79</small></td>
+    <td><small>M4V</small></td>
+    <td align="right"><small>971.68 MB</small></td>
   </tr>
   <tr>
-    <td style="text-align: right;">5</td>
-    <td>AMR</td>
-    <td style="text-align: right;">86.07 KB</td>
+    <td align="right"><small>11</small></td>
+    <td><small>VOB</small></td>
+    <td align="right"><small>7.64 GB</small></td>
+  </tr>
+  <tr>
+    <td align="right"><small>8</small></td>
+    <td><small>WMV</small></td>
+    <td align="right"><small>1.34 GB</small></td>
+  </tr>
+  <tr>
+    <td align="right"><small>2</small></td>
+    <td><small>3GP</small></td>
+    <td align="right"><small>1.89 MB</small></td>
+  </tr>
+  <tr>
+    <td align="right"><small>1</small></td>
+    <td><small>TS</small></td>
+    <td align="right"><small>275.09 MB</small></td>
+  </tr>
+  <tr>
+    <td align="right"><small>1</small></td>
+    <td><small>pluginpayloadattachment</small></td>
+    <td align="right"><small>4.86 MB</small></td>
+  </tr>
+
+  <tr>
+    <td rowspan="5" valign="top"><small>Audio</small></td> 
+    <td align="right"><small>129</small></td>
+    <td><small>M4A</small></td>
+    <td align="right"><small>378.41 MB</small></td>
+  </tr>
+  <tr>
+    <td align="right"><small>17</small></td>
+    <td><small>WAV</small></td>
+    <td align="right"><small>14.00 MB</small></td>
+  </tr>
+  <tr>
+    <td align="right"><small>16</small></td>
+    <td><small>OPUS</small></td>
+    <td align="right"><small>790.94 KB</small></td>
+  </tr>
+  <tr>
+    <td align="right"><small>9</small></td>
+    <td><small>MP3</small></td>
+    <td align="right"><small>12.84 MB</small></td>
+  </tr>
+  <tr>
+    <td align="right"><small>5</small></td>
+    <td><small>AMR</small></td>
+    <td align="right"><small>86.07 KB</small></td>
   </tr>
   
   <tr>
-    <td rowspan="2" style="vertical-align: top;">Image</td> 
-    <td style="text-align: right;">83</td>
-    <td>JPG</td>
-    <td style="text-align: right;">211.81 KB</td>
+    <td rowspan="2" valign="top"><small>Image</small></td> 
+    <td align="right"><small>83</small></td>
+    <td><small>JPG</small></td>
+    <td align="right"><small>211.81 KB</small></td>
   </tr>
   <tr>
-    <td style="text-align: right;">1</td>
-    <td>PNG</td>
-    <td style="text-align: right;">47.49 KB</td>
+    <td align="right"><small>1</small></td>
+    <td><small>PNG</small></td>
+    <td align="right"><small>47.49 KB</small></td>
   </tr>
 
   <tr>
-    <td rowspan="3" style="vertical-align: top;">Misc</td> 
-    <td style="text-align: right;">34 Empty Files</td>
-    <td>LST/DOC/DOCX/MOV/MP3/PDF/PPT/XLS</td>
-    <td style="text-align: right;">0</td>
+    <td rowspan="3" valign="top"><small>Misc</small></td> 
+    <td align="right"><small>34 Empty Files</small></td>
+    <td><small>LST/DOC/DOCX/MOV/MP3/PDF/PPT/XLS</small></td>
+    <td align="right"><small>0</small></td>
   </tr>
   <tr>
-    <td style="text-align: right;">27 Index Files</td>
-    <td>OPT/DAT/LST/LFP/DII</td>
-    <td style="text-align: right;">204.48 MB</td>
+    <td align="right"><small>27 Index Files</small></td>
+    <td><small>OPT/DAT/LST/LFP/DII</small></td>
+    <td align="right"><small>204.48 MB</small></td>
   </tr>
   <tr>
-    <td style="text-align: right;">2 Thumbnail Cache Files (Thumbs.db)</td>
-    <td>DB</td>
-    <td style="text-align: right;">230.40 KB</td>
+    <td align="right"><small>2 Thumbnail Cache Files (Thumbs.db)</small></td>
+    <td><small>DB</small></td>
+    <td align="right"><small>230.40 KB</small></td>
   </tr>
   </tbody>
 
   <tfoot style="border-top: 1px solid; font-weight: bold;">
   <tr>
-    <td>Total</td> 
-    <td style="text-align: right;">1,382,403</td>
+    <td><small><b>Total</b></small></td> 
+    <td align="right"><small><b>1,382,403</b></small></td>
     <td></td>
-    <td style="text-align: right;">325.38 GB</td>
+    <td align="right"><small><b>325.38 GB</b></small></td>
   </tr>
   </tfoot>
 </table>
@@ -179,6 +179,6 @@ The dataset includes 34 empty files (0 bytes) and 29 duplicate sets of identical
 ## Uncommon File Formats/Extensions
 - `OPT/DAT/LST/LFP/DII`: These are software-dependent index/map files, which basically contain a listing of the files.
 
-- `VOL00009\NATIVES\EFTA01242503.db` and `VOL00009\NATIVES\EFTA01242504.db`: These are Windows Thumbnail Cache Files (Thumbs.db). They are created in image file directories to store thumbnail versions of the original images for faster viewing in Explorer. While there are extractions of these thumbnails in `VOL00009/DB-EXTRACT/EFTA01242503` and `VOL00009/DB-EXTRACT/EFTA01242504`, some of them are corrupted. To view the originals, the `.db` files can be opened with tools like [Thumbs Viewer](https://thumbsviewer.github.io/) from Eric Kutcher.
+- `VOL00009\NATIVES\EFTA01242503.db` and `VOL00009\NATIVES\EFTA01242504.db`: These are Windows Thumbnail Cache Files (Thumbs.db). They are created in image file directories to store thumbnail versions of the original images for faster viewing in Explorer. While there are extractions of these thumbnails in `VOL00009\DB-EXTRACT\EFTA01242503` and `VOL00009\DB-EXTRACT\EFTA01242504`, some of them are corrupted. To view the originals, the `.db` files can be opened with tools like [Thumbs Viewer](https://thumbsviewer.github.io/) from Eric Kutcher.
 
 - `VOL00010\NATIVES\0001\EFTA01615376.pluginpayloadattachment`: This is a regular video file (.mp4) that was likely sent or received via Apple Mail/Messages. It can be opened with a common video player.
